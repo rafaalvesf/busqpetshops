@@ -7465,6 +7465,8 @@ button.bg-dark:focus {
 
 .mr-3,
 .mx-3 {
+  width: 150px;
+  height: 150px;
   margin-right: 1rem !important;
 }
 

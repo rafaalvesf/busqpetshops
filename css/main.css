@@ -92,3 +92,15 @@
 	border-radius: 50%;
 	margin-right: 30%;
 }
+.box4{
+
+	margin: 40px auto;
+	width: 70%;
+}
+.botoes{
+	width: 100%;
+	border-radius: 1%;
+	background-color: white;
+	display: flex;
+	flex-flow: column;	
+}
